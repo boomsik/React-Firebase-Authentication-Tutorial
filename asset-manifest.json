@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Firebase-Authentication-Tutorial/static/css/main.d862a706.css",
+    "main.js": "/React-Firebase-Authentication-Tutorial/static/js/main.17b60a7c.js",
+    "static/js/787.32a3c192.chunk.js": "/React-Firebase-Authentication-Tutorial/static/js/787.32a3c192.chunk.js",
+    "index.html": "/React-Firebase-Authentication-Tutorial/index.html",
+    "main.d862a706.css.map": "/React-Firebase-Authentication-Tutorial/static/css/main.d862a706.css.map",
+    "main.17b60a7c.js.map": "/React-Firebase-Authentication-Tutorial/static/js/main.17b60a7c.js.map",
+    "787.32a3c192.chunk.js.map": "/React-Firebase-Authentication-Tutorial/static/js/787.32a3c192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d862a706.css",
+    "static/js/main.17b60a7c.js"
+  ]
+}
